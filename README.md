@@ -1,3 +1,5 @@
-# 数学知几 · 静态站点（仅构建产物，不含源码）
+# 数学知几
 
 访问：https://bxxu19.github.io/mathzhiji-site/
+
+不含源码
